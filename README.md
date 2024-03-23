@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning AngularJS.
 - 📫 How to reach me harshit199dubey@gmail.com.
 
-I designed various Pages, mailers by understanding the code & architecture in briefs. I worked on a project titled ‘Dobiznow-Web app’ during my internship. During the internship I demonstrated good design & coding skills with a self-motivated attitude to learn new things. Internship Certificate.
-
-As Web Developer I learned many new technologies like expressJS, AngularJS, JS, & nodeJS. I also learn to develop REST Api with CURD operation.
-
+I've had experience with various web technologies—Javascript, HTML, CSS, Flutter, and Angular. Take my current role, for instance; I'm leading the "PBL Analytical Dashboard (For Northernarc)" project. I don't just oversee things; I'm actively involved in the development process, ensuring the implementation of various chart types for effective data visualization. Moreover, my leadership on projects like the "PBL Customer Portal (For Northernarc)" showcases my adeptness at seamlessly integrating complex functionalities such as Azure b2c login, payment gateways, finbox for collecting bank details, and Digi locker services. Notably, my involvement in the mobile adaptation of the portal using Flutter highlights my adaptability across platforms, enhancing the user experience with features like QR scanning. Additionally, my pivotal role in developing the 'oneshield-da' project demonstrates my ability to construct dynamic components that render dynamically based on API responses, highlighting my proficiency in Angular development. My enthusiasm for learning and embracing new technologies propels me to continually seek opportunities for growth and innovation in every project I undertake.
